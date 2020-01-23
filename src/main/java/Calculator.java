@@ -3,7 +3,7 @@ import java.util.List;
 
 import static java.lang.Math.abs;
 
-public class Calculation {
+public class Calculator {
     public int getDigitQuantity(int number) {
         int result = 1;
         while (abs(number) > 9) {

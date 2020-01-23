@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-class CalculationTest {
+class CalculatorTest {
 
     Calculator calculation = new Calculator();
 
